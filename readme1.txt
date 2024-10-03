@@ -1,0 +1,1 @@
+To create a PDB in SQL Developer, use the "Create Pluggable Database" wizard, specifying details like name and source.
